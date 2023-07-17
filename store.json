@@ -2,7 +2,7 @@
   {
     "name": "Borrowed Love",
     "type": "Battle Bus Music",
-    "description": "IF YOUNG METRO DON’T TRUST YOU THEY GON‘ SHOOT YOU",
+    "description": "IF YOUNG METRO DON’T TRUST...",
     "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1130497989325111456/NotAllHeroesWearCapesDeluxe.jpg",
     "pakName": "pakchunkMetroBus-WindowsClient.pak",
     "pak": "https://cdn.discordapp.com/attachments/1130497502337056858/1130497549330042990/pakchunkMetroBus-WindowsClient.pak",
@@ -26,7 +26,7 @@
   {
     "name": "NAHWC",
     "type": "Loading Screen",
-    "description": "Loading Screen with the Not All Heroes Wear Capes (Deluxe) Cover",
+    "description": "Loading Screen with NAHWC",
     "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1130497989325111456/NotAllHeroesWearCapesDeluxe.jpg",
     "pakName": "pakchunkMetroScreen-WindowsClient.pak",
     "pak": "https://cdn.discordapp.com/attachments/1130497502337056858/1130498754089332799/pakchunkMetroScreen-WindowsClient.pak",
@@ -38,7 +38,7 @@
   {
     "name": "placeholder",
     "type": "placeholder",
-    "description": "Loading Screen with the Not All Heroes Wear Capes (Deluxe) Cover",
+    "description": "Loading Screen with NAHWC",
     "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1130497989325111456/NotAllHeroesWearCapesDeluxe.jpg",
     "pakName": "pakchunkMetroScreen-WindowsClient.pak",
     "pak": "https://cdn.discordapp.com/attachments/1130497502337056858/1130498754089332799/pakchunkMetroScreen-WindowsClient.pak",
