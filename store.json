@@ -4,7 +4,9 @@
     "type": "Battle Bus Music",
     "description": "IF YOUNG METRO DON’T TRUST YOU THEY GON‘ SHOOT YOU",
     "thumbnail": "mach mal flyppo",
+    "pakName": "pak",
     "pak": "pak_download_link(use-discord)",
+    "sigName": "sig",
     "sig": "sig_download_link(use-discord)",
     "status": "free",
     "price": "0.00"
@@ -14,7 +16,9 @@
     "type": "Golf Cart Horn",
     "description": "pluh!",
     "thumbnail": "mach mal flyppo",
+    "pakName": "pak",
     "pak": "pak_download_link(use-discord)",
+    "sigName": "sig",
     "sig": "sig_download_link(use-discord)",
     "status": "free",
     "price": "0.00"
