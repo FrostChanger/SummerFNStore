@@ -6,7 +6,8 @@
     "thumbnail": "mach mal flyppo",
     "pak": "pak_download_link(use-discord)",
     "sig": "sig_download_link(use-discord)",
-    "status": "free"
+    "status": "free",
+    "price": "0.00"
   },
   {
     "name": "Plug🔌",
@@ -15,6 +16,7 @@
     "thumbnail": "mach mal flyppo",
     "pak": "pak_download_link(use-discord)",
     "sig": "sig_download_link(use-discord)",
-    "status": "free"
+    "status": "free",
+    "price": "0.00"
   }
 ]
