@@ -37,7 +37,7 @@
   },
   {
     "name": "placeholder",
-    "type": "placeholder",
+    "type": "Loading Screen",
     "description": "Loading Screen with NAHWC",
     "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1130497989325111456/NotAllHeroesWearCapesDeluxe.jpg",
     "pakName": "pakchunkMetroScreen-WindowsClient.pak",
