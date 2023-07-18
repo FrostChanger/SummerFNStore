@@ -50,5 +50,18 @@
     "sig": "https://cdn.discordapp.com/attachments/1130497502337056858/1130498754525532240/pakchunkMetroScreen-WindowsClient.sig",
     "status": "free",
     "price": "0.00"
+  },
+  {
+    "author": "Bunneh",
+    "name": "Guaco",
+    "type": "Outfit",
+    "description": "Adds Guaco. Need to own the associated CID to wear. Also replicates",
+    "thumbnail": "yeah-i-still-need-to-upload",
+    "pakName": "pakchunkGuaco-WindowsClient.pak",
+    "pak": "yeah-i-still-need-to-upload",
+    "sigName": "pakchunkGuaco-WindowsClient.sig",
+    "sig": "yeah-i-still-need-to-upload",
+    "status": "paid",
+    "price": "420.69"
   }
 ]
