@@ -39,15 +39,15 @@
     "price": "0.00"
   },
   {
-    "author": "Unknown",
-    "name": "placeholder",
-    "type": "Loading Screen",
-    "description": "Loading Screen with NAHWC",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1130497989325111456/NotAllHeroesWearCapesDeluxe.jpg",
-    "pakName": "pakchunkMetroScreen-WindowsClient.pak",
-    "pak": "https://cdn.discordapp.com/attachments/1130497502337056858/1130498754089332799/pakchunkMetroScreen-WindowsClient.pak",
-    "sigName": "pakchunkMetroScreen-WindowsClient.sig",
-    "sig": "https://cdn.discordapp.com/attachments/1130497502337056858/1130498754525532240/pakchunkMetroScreen-WindowsClient.sig",
+    "author": "Yuhki",
+    "name": "Violent Nites",
+    "type": "Battle Bus Music",
+    "description": "Violent Nites by Fortye as Battle Bus Music",
+    "thumbnail": "https://i.scdn.co/image/ab67616d00001e0268ab186b641a02181f1b8d0b",
+    "pakName": "pakchunkViolentNites-WindowsClient.pak",
+    "pak": "https://cdn.discordapp.com/attachments/1130497502337056858/1131928976022057040/pakchunkViolentNites-WindowsClient.pak",
+    "sigName": "pakchunkViolentNites-WindowsClient.sig",
+    "sig": "https://cdn.discordapp.com/attachments/1130497502337056858/1131928976378568724/pakchunkViolentNites-WindowsClient.sig",
     "status": "free",
     "price": "0.00"
   }
