@@ -50,5 +50,18 @@
     "sig": "https://cdn.discordapp.com/attachments/1130497502337056858/1131928976378568724/pakchunkViolentNites-WindowsClient.sig",
     "status": "free",
     "price": "0.00"
+  },
+  {
+    "author": "Yuhki",
+    "name": "Halloween Music",
+    "type": "Lobby Music",
+    "description": "Halloween Lobby BGM",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1131971513952784454/Halloween_Lobby_Music.png",
+    "pakName": "HalloweenLobbyMusic.pak",
+    "pak": "https://cdn.discordapp.com/attachments/1130497502337056858/1131970658432188507/HalloweenLobbyMusic.pak",
+    "sigName": "HalloweenLobbyMusic.sig",
+    "sig": "https://cdn.discordapp.com/attachments/1130497502337056858/1131970658750967959/HalloweenLobbyMusic.sig",
+    "status": "free",
+    "price": "0.00"
   }
 ]
