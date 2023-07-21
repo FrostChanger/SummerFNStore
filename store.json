@@ -63,5 +63,31 @@
     "sig": "https://cdn.discordapp.com/attachments/1130497502337056858/1131970658750967959/HalloweenLobbyMusic.sig",
     "status": "free",
     "price": "0.00"
+  },
+  {
+    "author": "Yuhki",
+    "name": "Frostnite",
+    "type": "Lobby Music",
+    "description": "Frostnite BGM",
+    "thumbnail": "https://cdn.discordapp.com/attachments/629132240466477081/1131973099810721812/FrostniteMusic.webp",
+    "pakName": "Frostnite.pak",
+    "pak": "https://cdn.discordapp.com/attachments/1130497502337056858/1131974052110680084/Frostnite.pak",
+    "sigName": "Frostnite.sig",
+    "sig": "https://cdn.discordapp.com/attachments/1130497502337056858/1131974052437831701/Frostnite.sig",
+    "status": "free",
+    "price": "0.00"
+  },
+  {
+    "author": "Yuhki",
+    "name": "Load It Up",
+    "type": "Lobby Music",
+    "description": "Load It Up BGM",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1131975133674872903/LoadItUp_Music.png",
+    "pakName": "LoadItUp.pak",
+    "pak": "https://cdn.discordapp.com/attachments/1130497502337056858/1131974809417429143/LoadItUp.pak",
+    "sigName": "LoadItUp.sig",
+    "sig": "https://cdn.discordapp.com/attachments/1130497502337056858/1131974809757159474/LoadItUp.sig",
+    "status": "free",
+    "price": "0.00"
   }
 ]
