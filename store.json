@@ -115,5 +115,31 @@
     "sig": "https://github.com/yuhkix/custom-paks/raw/main/Five.sig",
     "status": "free",
     "price": "0.00"
+  },
+  {
+    "author": "Yuhki",
+    "name": "青のすみか",
+    "type": "Lobby Music",
+    "description": "青のすみか BGM",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1132273309589966918/Where_Our_Blue_Is_Music.png",
+    "pakName": "WhereOurBlueIs.pak",
+    "pak": "https://github.com/yuhkix/custom-paks/raw/main/WhereOurBlueIs.pak",
+    "sigName": "WhereOurBlueIs.sig",
+    "sig": "https://github.com/yuhkix/custom-paks/raw/main/WhereOurBlueIs.sig",
+    "status": "free",
+    "price": "0.00"
+  },
+  {
+    "author": "Yuhki",
+    "name": "Hurts Me",
+    "type": "Lobby Music",
+    "description": "Hurts Me BGM",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1132272980769120406/Hurts_Me_Music.png",
+    "pakName": "HurtsMe.pak",
+    "pak": "https://github.com/yuhkix/custom-paks/raw/main/HurtsMe.pak",
+    "sigName": "HurtsMe.sig",
+    "sig": "https://github.com/yuhkix/custom-paks/raw/main/HurtsMe.sig",
+    "status": "free",
+    "price": "0.00"
   }
 ]
