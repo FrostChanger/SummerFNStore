@@ -58,9 +58,9 @@
     "description": "Halloween Lobby BGM",
     "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1131971513952784454/Halloween_Lobby_Music.png",
     "pakName": "HalloweenLobbyMusic.pak",
-    "pak": "https://cdn.discordapp.com/attachments/1130497502337056858/1131970658432188507/HalloweenLobbyMusic.pak",
+    "pak": "https://github.com/yuhkix/custom-paks/raw/main/HalloweenLobbyMusic.pak",
     "sigName": "HalloweenLobbyMusic.sig",
-    "sig": "https://cdn.discordapp.com/attachments/1130497502337056858/1131970658750967959/HalloweenLobbyMusic.sig",
+    "sig": "https://github.com/yuhkix/custom-paks/raw/main/HalloweenLobbyMusic.sig",
     "status": "free",
     "price": "0.00"
   },
@@ -71,9 +71,9 @@
     "description": "Frostnite Music",
     "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1131977142595498094/Frostnite_Music.png",
     "pakName": "Frostnite.pak",
-    "pak": "https://cdn.discordapp.com/attachments/1130497502337056858/1131974052110680084/Frostnite.pak",
+    "pak": "https://github.com/yuhkix/custom-paks/raw/main/Frostnite.pak",
     "sigName": "Frostnite.sig",
-    "sig": "https://cdn.discordapp.com/attachments/1130497502337056858/1131974052437831701/Frostnite.sig",
+    "sig": "https://github.com/yuhkix/custom-paks/raw/main/Frostnite.sig",
     "status": "free",
     "price": "0.00"
   },
@@ -84,9 +84,22 @@
     "description": "Load It Up BGM",
     "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1131975133674872903/LoadItUp_Music.png",
     "pakName": "LoadItUp.pak",
-    "pak": "https://cdn.discordapp.com/attachments/1130497502337056858/1131974809417429143/LoadItUp.pak",
+    "pak": "https://github.com/yuhkix/custom-paks/raw/main/LoadItUp.pak",
     "sigName": "LoadItUp.sig",
-    "sig": "https://cdn.discordapp.com/attachments/1130497502337056858/1131974809757159474/LoadItUp.sig",
+    "sig": "https://github.com/yuhkix/custom-paks/raw/main/LoadItUp.sig",
+    "status": "free",
+    "price": "0.00"
+  },
+  {
+    "author": "Yuhki",
+    "name": "Lost Soul",
+    "type": "Lobby Music",
+    "description": "Lost Soul BGM",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1132184366869663754/Lost_Soul_Music.png",
+    "pakName": "LostSoul.pak",
+    "pak": "https://github.com/yuhkix/custom-paks/raw/main/LostSoul.pak",
+    "sigName": "LostSoul.sig",
+    "sig": "https://github.com/yuhkix/custom-paks/raw/main/LostSoul.sig",
     "status": "free",
     "price": "0.00"
   }
