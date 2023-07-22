@@ -141,5 +141,18 @@
     "sig": "https://github.com/yuhkix/custom-paks/raw/main/pakchunkHurtsMe-WindowsClient.sig",
     "status": "free",
     "price": "0.00"
+  },
+  {
+    "author": "Yuhki",
+    "name": "JJK s2",
+    "type": "Loading Screen",
+    "description": "JJK LS",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1132388769824256121/T_JJK_L.png",
+    "pakName": "pakchunkJJK-WindowsClient.pak",
+    "pak": "https://github.com/yuhkix/custom-paks/raw/main/pakchunkJJK-WindowsClient.pak",
+    "sigName": "pakchunkJJK-WindowsClient.sig",
+    "sig": "https://github.com/yuhkix/custom-paks/raw/main/pakchunkJJK-WindowsClient.sig",
+    "status": "free",
+    "price": "0.00"
   }
 ]
