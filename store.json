@@ -32,9 +32,9 @@
     "description": "NAHWC Cover",
     "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1130497989325111456/NotAllHeroesWearCapesDeluxe.jpg",
     "pakName": "pakchunkMetroScreen-WindowsClient.pak",
-    "pak": "https://cdn.discordapp.com/attachments/1130497502337056858/1130498754089332799/pakchunkMetroScreen-WindowsClient.pak",
+    "pak": "https://github.com/yuhkix/custom-paks/raw/main/pakchunkMetroScreen-WindowsClient.pak",
     "sigName": "pakchunkMetroScreen-WindowsClient.sig",
-    "sig": "https://cdn.discordapp.com/attachments/1130497502337056858/1130498754525532240/pakchunkMetroScreen-WindowsClient.sig",
+    "sig": "https://github.com/yuhkix/custom-paks/raw/main/pakchunkMetroScreen-WindowsClient.sig",
     "status": "free",
     "price": "0.00"
   },
