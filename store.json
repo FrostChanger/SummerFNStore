@@ -102,5 +102,18 @@
     "sig": "https://github.com/yuhkix/custom-paks/raw/main/LostSoul.sig",
     "status": "free",
     "price": "0.00"
+  },
+  {
+    "author": "Yuhki",
+    "name": "Five",
+    "type": "Lobby Music",
+    "description": "Five BGM",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1132270062460489768/Five_Kanii_Music.png",
+    "pakName": "Five.pak",
+    "pak": "https://github.com/yuhkix/custom-paks/raw/main/Five.pak",
+    "sigName": "Five.sig",
+    "sig": "https://github.com/yuhkix/custom-paks/raw/main/Five.sig",
+    "status": "free",
+    "price": "0.00"
   }
 ]
