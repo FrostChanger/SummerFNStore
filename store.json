@@ -167,5 +167,18 @@
     "sig": "https://github.com/yuhkix/custom-paks/raw/main/pakchunkDamned-WindowsClient.sig",
     "status": "free",
     "price": "0.00"
+  },
+  {
+    "author": "Yuhki",
+    "name": "115",
+    "type": "Lobby Music",
+    "description": "Call of Duty Black Ops Zombies Soundtrack",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1132607847025360936/115_Music.png",
+    "pakName": "pakchunk115-WindowsClient.pak",
+    "pak": "https://github.com/yuhkix/custom-paks/raw/main/pakchunk115-WindowsClient.pak",
+    "sigName": "pakchunk115-WindowsClient.sig",
+    "sig": "https://github.com/yuhkix/custom-paks/raw/main/pakchunk115-WindowsClient.sig",
+    "status": "free",
+    "price": "0.00"
   }
 ]
