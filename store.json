@@ -180,5 +180,18 @@
     "sig": "https://github.com/yuhkix/custom-paks/raw/main/pakchunk115-WindowsClient.sig",
     "status": "free",
     "price": "0.00"
+  },
+  {
+    "author": "Yuhki",
+    "name": "Beauty Of Annihilation",
+    "type": "Lobby Music",
+    "description": "Call of Duty Black Ops Zombies Soundtrack",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1130497502337056858/1132518115117367457/Damned_Music.png",
+    "pakName": "pakchunkBeautyOfAnnihilation-WindowsClient.pak",
+    "pak": "https://github.com/yuhkix/custom-paks/raw/main/pakchunkBeautyOfAnnihilation-WindowsClient.pak",
+    "sigName": "pakchunkBeautyOfAnnihilation-WindowsClient.sig",
+    "sig": "https://github.com/yuhkix/custom-paks/raw/main/pakchunkBeautyOfAnnihilation-WindowsClient.sig",
+    "status": "free",
+    "price": "0.00"
   }
 ]
